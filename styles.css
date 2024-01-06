@@ -133,6 +133,14 @@ button {
     gap: 1rem;
     margin-top: 2rem;
   }
+
+  .icon {
+    border-radius: 2rem;
+  }
+ 
+  .icon:hover {
+    background: var(--color-pink);
+  }
   
   .attribution {
     text-align: center;
